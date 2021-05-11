@@ -4,6 +4,8 @@ bin-debug/
 # Other files and folders
 node_modules
 .DS_Store
+*.swp
+*.swo
 
 # Executables
 *.apk
